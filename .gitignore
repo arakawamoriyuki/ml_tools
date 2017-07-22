@@ -1,0 +1,6 @@
+**/tensorboard/*.local
+/datasets/**/*
+
+**/__pycache__/*
+*.pyc
+.DS_Store
